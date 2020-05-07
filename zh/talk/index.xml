@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | 赵思源</title>
+    <link>https://127.0.0.1/zh/talk/</link>
+      <atom:link href="https://127.0.0.1/zh/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh</language><lastBuildDate>Wed, 02 Oct 2019 08:30:00 -0700</lastBuildDate>
+    <image>
+      <url>https://127.0.0.1/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://127.0.0.1/zh/talk/</link>
+    </image>
+    
+    <item>
+      <title>AGIFORS 59th Symposium</title>
+      <link>https://127.0.0.1/zh/talk/agifors/</link>
+      <pubDate>Wed, 02 Oct 2019 08:30:00 -0700</pubDate>
+      <guid>https://127.0.0.1/zh/talk/agifors/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

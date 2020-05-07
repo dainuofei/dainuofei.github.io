@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>思源 | 赵思源</title>
+    <link>https://127.0.0.1/zh/author/%E6%80%9D%E6%BA%90/</link>
+      <atom:link href="https://127.0.0.1/zh/author/%E6%80%9D%E6%BA%90/index.xml" rel="self" type="application/rss+xml" />
+    <description>思源</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh</language>
+    <image>
+      <url>https://127.0.0.1/zh/author/%E6%80%9D%E6%BA%90/avatar_hu42756640e86d230862e8f6da97d802e0_75969_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>思源</title>
+      <link>https://127.0.0.1/zh/author/%E6%80%9D%E6%BA%90/</link>
+    </image>
+    
+  </channel>
+</rss>

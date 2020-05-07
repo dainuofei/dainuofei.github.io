@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://127.0.0.1/zh/category/ai/</loc>
+    <lastmod>2020-04-24T00:13:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://127.0.0.1/zh/categories/</loc>
+    <lastmod>2020-04-24T00:13:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://127.0.0.1/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://127.0.0.1/zh/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://127.0.0.1/zh/tag/machine-learning/</loc>
+    <lastmod>2020-04-24T00:13:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://127.0.0.1/zh/post/</loc>
+    <lastmod>2020-04-24T00:13:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://127.0.0.1/en/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://127.0.0.1/zh/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://127.0.0.1/zh/tags/</loc>
+    <lastmod>2020-04-24T00:13:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://127.0.0.1/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://127.0.0.1/zh/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://127.0.0.1/zh/post/the-quest-for-machine-learning/</loc>
+    <lastmod>2020-04-24T00:13:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://127.0.0.1/zh/</loc>
+    <lastmod>2020-04-24T00:13:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://127.0.0.1/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://127.0.0.1/zh/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://127.0.0.1/zh/talk/agifors/</loc>
+    <lastmod>2019-10-02T08:30:00-07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://127.0.0.1/en/talk/agifors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://127.0.0.1/zh/talk/agifors/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://127.0.0.1/zh/authors/</loc>
+    <lastmod>2019-10-02T08:30:00-07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://127.0.0.1/en/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://127.0.0.1/zh/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://127.0.0.1/zh/author/q.-xiao/</loc>
+    <lastmod>2019-10-02T08:30:00-07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://127.0.0.1/en/author/q.-xiao/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://127.0.0.1/zh/author/q.-xiao/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://127.0.0.1/zh/talk/</loc>
+    <lastmod>2019-10-02T08:30:00-07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://127.0.0.1/en/talk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://127.0.0.1/zh/talk/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://127.0.0.1/zh/author/s.-zhao/</loc>
+    <lastmod>2019-10-02T08:30:00-07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://127.0.0.1/en/author/s.-zhao/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://127.0.0.1/zh/author/s.-zhao/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://127.0.0.1/zh/tag/seq2seq/</loc>
+    <lastmod>2019-10-02T08:30:00-07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://127.0.0.1/en/tag/seq2seq/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://127.0.0.1/zh/tag/seq2seq/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://127.0.0.1/zh/category/cs/</loc>
+    <lastmod>2018-11-11T00:13:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://127.0.0.1/zh/post/notes-the-art-of-readable-code/</loc>
+    <lastmod>2018-11-11T00:13:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://127.0.0.1/zh/publication/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://127.0.0.1/en/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://127.0.0.1/zh/publication/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://127.0.0.1/zh/author/%E6%80%9D%E6%BA%90/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://127.0.0.1/en/author/siyuan-zhao/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://127.0.0.1/zh/author/%E6%80%9D%E6%BA%90/"
+                />
+  </url>
+  
+</urlset>
